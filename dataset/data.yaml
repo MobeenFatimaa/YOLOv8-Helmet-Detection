@@ -1,0 +1,6 @@
+path: C:/Users/User/Desktop/helmet_detection_project/dataset
+train: train/images  
+val: val/images     
+
+nc: 2
+names: ['Without helmet', 'With helmet']
